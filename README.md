@@ -1,6 +1,6 @@
 # Microsoft365.com/setup
 
-[![Microsoft365.com/setup](gett-starteed.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
+[![Microsoft365.com/setup](gett-started.png)](http://officecom-setup.s3-website-us-west-1.amazonaws.com/)
 
 Microsoft365.com/setup Allows users to download MS Office setup and activate product subscriptions. Microsoft 365 apps are available for Windows, Mac, and smartphones. Learn more about [microsoft365.com/setup](https://github.com/setup-microsoft365comsetup/) on this page.
 
